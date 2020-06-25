@@ -1,0 +1,6 @@
+name: ngnix-sample
+replicaCount: 1
+
+image:
+  repository: rmkanda/nginx-sample
+  tag: "v1"
